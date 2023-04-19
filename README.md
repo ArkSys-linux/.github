@@ -2,7 +2,7 @@
 ![](/img/arksys.png)
 
 # Why to choose this system?
-After installing multiple Linux distros with different desktop environments and  window managers, I always end up with a similar configuration and visual design. So this is the type of OS that I recommend to use in a daily drive for most computers. To view all the Linux software read this [article list](./linux-software.md).
+After installing multiple Linux distros with different desktop environments and  window managers, I always end up with a similar configuration and visual design. So this is the type of OS that I recommend to use in a daily drive for most computers. Here you can view all [basic Linux software](./linux-software.md) that I have selected.
 
 ArkSys = ArchLinux + Vanilla KDE (by default)
 
