@@ -1,7 +1,8 @@
 ## Hi there 👋
 
-<!--
+**ArkSys** is an Operating **Sys**tem with **Ar**ch Linux and **K** Desktop Environment.
 
+<!--
 **Here are some ideas to get you started:**
 
 🙋‍♀️ A short introduction - what is your organization all about?
