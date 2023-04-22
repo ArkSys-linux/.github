@@ -1,11 +1,7 @@
-## Hi there 👋
-
-**ArkSys** is an **Ar**chLinux-based distro with **K** Desktop Environment forming an Operating **Sys**tem.
+***ArkSys*** is an **Ar**chLinux-based distro with **K** Desktop Environment forming an Operating **Sys**tem.
 
 ## Why to choose this system?
-After installing multiple Linux distros with different desktop environments and  window managers, I always end up with a similar configuration and visual design. So this is the type of OS that I recommend to use in a daily drive for most computers. Here you can view all [basic Linux software](./linux-software.md) that I have selected.
-
-ArkSys = ArchLinux + Vanilla KDE (by default)
+After installing multiple Linux distros with different desktop environments and  window managers, I always end up with a similar configuration and visual design. So this is the type of OS that I recommend to use in a daily drive for most computers.
 
 ## [Kernel = Linux](https://kernel.org/)
 I have chosen Linux as the Operating System beacause is the biggest open-source project, is private, secure, very customazible and there is a big community that can help you . Also is the only one that can compite against the proprietary system such as Windows and macOS. And in case you don't know, Linux is only the Kernel of the Operating System that communicates with the computer hardware, the rest of the OS is constrcuted on top of that.
