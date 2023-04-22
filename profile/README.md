@@ -1,6 +1,6 @@
 ***ArkSys*** is a **Sys**tem based on **Ar**ch Linux with **K** Desktop Environment (KDE).
 
-![](./img/arksys.png)
+![70](./img/arksys.png)
 
 ## Why to choose this system?
 After installing multiple Linux distros with different desktop environments and  window managers, I always end up with a similar configuration and visual design. So this is the type of OS that I recommend to use in a daily drive for most computers.
@@ -14,7 +14,25 @@ Arch Linux is a very lightway Linux distribution with around 300 packages preins
 ## Desktop Environment = [KDE](https://kde.org/)
 Most of us are familiar with Windows or perhaps MacOS before using Linux, and these operating systems are great in terms of usability, but not for privacy.To achieve a similar design and good usability, the best option is to use a desktop environment such as KDE (K Desktop Environment) or, for something simpler, GNOME or XFCE. KDE is under development and is the biggest open-source project that develop free user applications. Also it has mouse gestures on laptops and is customizable to the exteme.
 
-![](./img/linux-architecture.jpg)
+![70](./img/linux-architecture.jpg)
+
+## Software installed
+- Linux-distribution: arch-linux
+- Kernel: linux
+- Bootloader: grub
+- Shell: bash
+- Sys-init: systemd
+- Drivers: 
+    - Audio-drivers: pìpewire
+    - Video-drivers: vulkan-radeon / nvidia, nvdia-open
+- Desktop environment: KDE-plasma
+    - Display-server: xorg / wayland
+    - File-manager: dolphin
+    - Terminal: konsole
+    - Terminal-text-editor: nano vim
+    - Text-editor-GUI: kate
+    - Theme: breeze
+    - Window-manager: kwin
 
 <!--
 **Here are some ideas to get you started:**
