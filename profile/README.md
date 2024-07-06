@@ -1,6 +1,6 @@
 ***ArkSys*** is an amazing **Ar**ch Linux **K** Desktop Environment **Sys**tem that helps you to install Arch with KDE.
 
-If you want an Arch-based distro with basic KDE preconfigured and a graphical installer, I highly recommend: If you're looking for a fresh new Linux experience, check out EndeavourOS (https://endeavouros.com/#Download), Garuda Linux KDE-lite (https://iso.builds.garudalinux.org/iso/garuda/kde-lite/) or CachyOS (https://github.com/CachyOS) (https://cachyos.org/download/).
+If you want an Arch-based distro with basic KDE preconfigured and a graphical installer, I highly recommend: If you're looking for a fresh new Linux experience, check out [EndeavourOS](https://endeavouros.com/#Download), [Garuda Linux KDE-lite](https://iso.builds.garudalinux.org/iso/garuda/kde-lite/) or [CachyOS](https://github.com/CachyOS) (https://cachyos.org/download/).
 
 ## Why this system?
 After installing multiple Linux distros with different desktop environments (DE) and window managers (WM), I always end up with a similar configuration and visual design. So this is the type of OS that I wholeheartedly recommend for use in a daily drive for most computers! Windows and macOS are proprietary and paid, but the FOSS alternatives like FreeBSD have less software and hardware compatibility, which is great because it means you can choose the OS that's right for you!
