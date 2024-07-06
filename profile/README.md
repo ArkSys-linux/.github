@@ -1,43 +1,40 @@
-***ArkSys*** an **Ar**ch Linux with **K** Desktop Environment as a **Sys**tem.
+***ArkSys*** is an amazing **Ar**ch Linux **K** Desktop Environment **Sys**tem that helps you to install Arch with KDE.
 
-Similar to [CachyOS KDE](https://github.com/CachyOS/), [Garuda Linux KDE-lite](https://iso.builds.garudalinux.org/iso/garuda/kde-lite/) and [Xerolinux KDE](https://github.com/xerolinux).
+If you want an Arch-based distro with basic KDE preconfigured and a graphical installer, I highly recommend: If you're looking for a fresh new Linux experience, check out EndeavourOS (https://endeavouros.com/#Download), Garuda Linux KDE-lite (https://iso.builds.garudalinux.org/iso/garuda/kde-lite/) or CachyOS (https://github.com/CachyOS) (https://cachyos.org/download/).
 
+## Why this system?
+After installing multiple Linux distros with different desktop environments (DE) and window managers (WM), I always end up with a similar configuration and visual design. So this is the type of OS that I wholeheartedly recommend for use in a daily drive for most computers! Windows and macOS are proprietary and paid, but the FOSS alternatives like FreeBSD have less software and hardware compatibility, which is great because it means you can choose the OS that's right for you!
 
-<img src="https://raw.githubusercontent.com/arksys-os/.github/main/profile/img/arksys.png" alt="Arksys desktop" width="240" height="168" />
+### [Linux](https://kernel.org/)
+Linux is the biggest open-source operating system for servers and workstations. It's private, secure, very customisable and there's a big community ready to help you. Also, it is the only one that can compete against the proprietary systems such as Windows and macOS, and has more software and hardware compatibility than the FOSS alternatives like FreeBSD or others.
 
-## Why to choose this system?
-After installing multiple Linux distros with different desktop environments (DE) and  window managers (WM), I always end up with a similar configuration and visual design. So this is the type of OS that I recommend to use in a daily drive for most computers.
+> Linux is the kernel of the OS that communicates with the computer hardware, and the rest of the software is integrated on top of that. However, "Linux" is normally used to refer to the family of Linux distros.
 
-## [Kernel = Linux](https://kernel.org/)
-I have chosen Linux as the Operating System beacause is the biggest open-source project, is private, secure, very customazible and there is a big community that can help you. Also it is the only one that can compite against the proprietary system such as Windows and macOS. And in case you don't know, Linux is only the Kernel of the Operating System that communicates with the computer hardware, the rest of the OS is constructed on top of that.
+### [Arch Linux](https://archlinux.org/) as base Linux distribution
+The Linux distribution or "Linux distro" is the concept of customized Linux OS with Linux Kernel + basic libraries + package manager + Desktop Environemt (Graphical User Interface)
 
-## Linux distribution = [Arch-Linux](https://archlinux.org/)
-Linux distro = customized Linux Kernel + basic utilities + package manager + WM/DE/terminal
-
-I chose Arch Linux by these reasons:
+I choose Arch Linux by these reasons:
+- Mantained by a group of developers and community, not corpo side.
 - Very lightway ISO (around 300 packages preinstalled and 800 MiB of size)
-- 2nd biggest community of Linux after Debian/Ubuntu.
+- Big community on internet: forums, Reddit, YouTube.
 - Perfect distro to learn and configure your system.
-- Two big repository with thousands of packages, [arch](https://archlinux.org/packages/) and [AUR](https://aur.archlinux.org/)
+- Big repository of packages, [arch repository (14k official build scripts)](https://archlinux.org/packages/) and [Arch User Repository (87k build scripts)](https://aur.archlinux.org/)
 - Distributed mirror servers with Arch repository packages.
-- Useful package manager, **pacman**.
+- Useful package manager, **pacman** that deals with PKGBUILD as build scritps close to the upstream.
 - Great documentation in the [ArchWiki](https://wiki.archlinux.org/).
-- Rolling-release model.
+- Rolling-release model, you always run the last version.
 
-There are other distributions like Debian (Ubuntu, Linux Mint), Fedora, openSUSE, Slackware, Alpine Linux, Void Linux...
+There are other good base distros like Debian, Fedora, Gentoo, NixOS, Void; but I'm comfortable with Arch.
 
-## Desktop Environment = [KDE](https://kde.org/)
-Most of us are familiar with Windows or perhaps MacOS before using Linux, and these operating systems are great in terms of usability, but not for privacy. To achieve a similar design very customizable and good workflow, the best option is to use a desktop environment such as KDE (K Desktop Environment) or something more simple like GNOME or XFCE. 
+### Desktop Environment = [KDE](https://kde.org/)
+Most of us are familiar with Windows or perhaps macOS before using Linux, and these operating systems are great in terms of usability, but not for privacy. To achieve a similar interface very customizable and with a good workflow, the best option is to use a desktop environment such as KDE (K Desktop Environment) or something more simple like GNOME or XFCE. 
 
-KDE is under development and is the biggest open-source project that develop free user applications.
-
+For me, KDE is the best! It's so elegant, customisable and flexible, and it's maintained by a great group of volunteers and developers.
 
 <img src="https://raw.githubusercontent.com/arksys-os/.github/main/profile/img/linux-architecture.jpg" width="163" height="140" alt="Linux architecture" />
 
-
 <!--
 **Here are some ideas to get you started:**
-
 🙋‍♀️ A short introduction - what is your organization all about?
 🌈 Contribution guidelines - how can the community get involved?
 👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
